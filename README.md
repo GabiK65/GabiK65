@@ -1,6 +1,8 @@
 ### Hi there \(^ ^ )/
 ---
-- Pronouns: He/Him
+- ✨ Pronouns: He/Him
+- 📕 Studying software design and development at Neumann János University in Hungary
+
 
 <!--
 **GabiK65/GabiK65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
