@@ -1,7 +1,7 @@
 ### Hi there \(^ ^ )/
 ---
 - ✨ Pronouns: He/Him
-- 📕 Studying software design and development at Neumann János University in Hungary
+- 📕 Studying software design and development at John von Neumann University in Hungary
 
 
 <!--
